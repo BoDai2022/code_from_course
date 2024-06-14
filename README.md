@@ -4,7 +4,8 @@
 ![the solar system](/planet_simulation/solar_system.gif)
 ![the TRAPPIST-1 system](/planet_simulation/trappist-1.gif)
 
-## 2 how much data is needed to reach a certain confidence level in probabilistic scenarios?
+## 2 How much data is needed to reach a certain confidence level in probabilistic scenarios?
 ![essential_bit_content](/normalised_essential_bit_content/normalized_essential_bit_content.png)
 
-
+## 3 Choosing restaurants in sydney
+![Intalian cuisine](/eating_in_sydney/eating_in_sydney.png)
