@@ -8,4 +8,4 @@
 ![essential_bit_content](/normalised_essential_bit_content/normalized_essential_bit_content.png)
 
 ## 3 Choosing restaurants in sydney
-![Intalian cuisine](/eating_in_sydney/eating_in_sydney.png)
+![cuisine](/eating_in_sydney/eating_in_sydney.png)
