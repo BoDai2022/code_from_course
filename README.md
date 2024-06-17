@@ -9,3 +9,6 @@
 
 ## 3 Choosing restaurants in sydney
 ![cuisine](/eating_in_sydney/eating_in_sydney.png)
+
+## 4 Semantic search using sentence-transformer
+![query](/semantic_search/sematic_search.gif)
